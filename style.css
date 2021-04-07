@@ -80,6 +80,10 @@ code, pre {
     border-bottom: 2px #fff solid;
 }
 
+.navbar img {
+    width: 180px;
+}
+
 /*Showcase*/
 
 .showcase {
